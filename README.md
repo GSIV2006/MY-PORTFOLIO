@@ -1,216 +1,114 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:2563EB&height=220&section=header&text=G.S.I.%20VENKAT&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20COMPETE&descAlignY=58&descSize=18" width="100%"/>
+<img src="./hero.svg" width="100%" alt="G.S.I. Venkat — Portfolio"/>
 
-### `AI/ML STUDENT` · `BUILDER` · `FOOTBALLER` · `CREATIVE`
+<br>
 
-<p>
-  <a href="https://github.com/GSIV2006">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/gsivenkat">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<a href="https://github.com/GSIV2006">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=flat-square&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/gsivenkat">
+<img src="https://img.shields.io/badge/LINKEDIN-111111?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+`AI / ML` &nbsp;·&nbsp; `BUILDER` &nbsp;·&nbsp; `FOOTBALL` &nbsp;·&nbsp; `CREATIVE`
 
 </div>
 
 ---
 
-## 👋 Hey, I'm Venkat.
+---
+
+<div align="center">
+
+### `HELLO, I'M VENKAT.`
+
+</div>
 
 I'm a **Computer Science Engineering student specialising in Artificial Intelligence & Machine Learning at REVA University, Bengaluru.**
 
 I like building things.
 
-Sometimes that's software.  
-Sometimes it's an event.  
-Sometimes it's a presentation that has absolutely no business looking that good.  
-And sometimes it's a football team.
+Software.  
+Events.  
+Ideas.  
+Teams.  
+Occasionally things that break at 2 AM.
 
-I'm interested in **AI, technology, design, communication, leadership and basically anything that lets me create something from scratch.**
-
----
-
-## 🧠 A little more about me
-
-```text
-🎓  CSE — Artificial Intelligence & Machine Learning
-📍  Bengaluru, India
-
-💻  Building with AI, software & web technologies
-⚽  Competitive footballer & long-time captain
-🎭  Theatre / drama & public speaking
-☁️  AWS Cloud Club — PR Team
-🎨  Design, presentations & creative work
-🌎  Multilingual & always learning something new
-```
-
-I don't really like putting myself into one box.
-
-**Tech is what I'm studying.  
-Creativity is how I think.  
-Football taught me how I work with people.  
-And building things is what I enjoy.**
+I'm interested in the space where **technology, creativity and people** overlap.
 
 ---
-
-# 🚀 Things I've Built
-
-### ⚖️ LEGALENS
-
-An AI-powered system for checking packaged commodities against **Legal Metrology regulations**.
-
-OCR → Field Extraction → Semantic Verification → Rule Engine → Compliance Report
-
-Built for **Smart India Hackathon 2026**.
-
-**Stack:** Python · FastAPI · PaddleOCR · SQLAlchemy · React · AI/ML
-
----
-
-### 🌊 IoT Projects
-
-I've also worked with hardware and connected systems using:
-
-`ESP8266` · `DHT11` · `BMP280` · `BH1750` · `Arduino` · `Streamlit`
-
-Because apparently writing code wasn't enough.  
-I had to make the hardware suffer too. 😭
-
----
-
-### ⛓️ FlowGuard AI
-
-A blockchain-focused hackathon project exploring AI + Web3.
-
-Worked with technologies around:
-
-`Algorand` · `Polygon` · `MetaMask` · `Pera Wallet` · `AlgoKit`
-
----
-
-# ⚽ Before the Code...
-
-Football has been a huge part of my life.
-
-I've played competitively from a young age, captained teams for years, and played at club-level competition.
-
-Football taught me things that no programming tutorial ever could:
-
-**leadership · communication · pressure · teamwork · losing · winning · showing up again**
-
-And yes...
-
-**I'm a Messi fan. 🐐**
-
----
-
-# 🎭 The other side of me
-
-Long before I started obsessing over code, I was involved in **school drama and theatre**.
-
-I've been involved in performances, creative work and eventually took on leadership responsibilities in theatre.
-
-That experience probably explains why I care way too much about:
-
-- how something looks
-- how something is presented
-- storytelling
-- speaking in front of people
-- making an audience actually care
-
-So yeah...
-
-**I code, but I also like the stage.**
-
----
-
-# ☁️ Community & Leadership
-
-I'm part of the **AWS Cloud Club at REVA University**, working with the PR team.
-
-I've been involved in organising and promoting technical events, ideathons, workshops and community activities.
-
-Some of the events I've worked around include:
-
-**Bengaluru Tech Week · IdeateBLR · Build on Web3 · AI / Cloud workshops**
-
-There's something I really enjoy about taking an idea that exists only on paper and turning it into an actual event with actual people showing up.
-
----
-
-# 🛠️ Things I Use
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,fastapi,mysql,git,github,docker,arduino,vscode" />
+`01` &nbsp;&nbsp; **TECH**  
+`02` &nbsp;&nbsp; **FOOTBALL**  
+`03` &nbsp;&nbsp; **CREATIVE**  
+`04` &nbsp;&nbsp; **COMMUNITY**
 
 </div>
 
-### Currently exploring
-
-`Artificial Intelligence` · `Machine Learning` · `Computer Vision` · `Web Development` · `Cloud` · `Web3`
-
 ---
 
-# 🎯 What I'm Into
+## 01 / TECH
+
+### Things I've built
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💻 Technology
+### LEGALENS
 
-AI/ML  
-Software development  
-Computer vision  
-Web development  
-IoT  
-Cloud technologies  
-Hackathons
+**AI × Legal Metrology**
+
+An AI-powered compliance system that analyses packaged commodities using OCR, field extraction and a rule engine.
+
+Built for **Smart India Hackathon 2026**.
+
+`Python` `FastAPI` `PaddleOCR`  
+`React` `SQLAlchemy` `AI/ML`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎨 Creative
+### FLOWGUARD AI
 
-UI & visual design  
-Presentations  
-Branding  
-Theatre  
-Public speaking  
-Storytelling  
-Content
+**AI × Web3**
+
+A blockchain-focused hackathon project exploring how AI and decentralised technologies can work together.
+
+`Algorand` `Polygon`  
+`MetaMask` `Pera Wallet` `AlgoKit`
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚽ Outside Tech
+### IoT SYSTEMS
 
-Football  
-Leadership  
-Team building  
-Competition  
-Travel  
-Learning languages
+**Hardware × Software**
+
+Connected sensor systems and dashboards built around real-world environmental data.
+
+`ESP8266` `DHT11` `BMP280`  
+`BH1750` `Arduino` `Streamlit`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧪 Currently
+### WHAT'S NEXT?
 
-Learning  
-Building  
-Experimenting  
-Breaking things  
-Fixing them  
-Repeating
+Probably something I haven't thought of yet.
+
+That's kind of the point.
 
 </td>
 </tr>
@@ -218,29 +116,172 @@ Repeating
 
 ---
 
-# 📊 GitHub
+## 02 / FOOTBALL
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GSIV2006&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170"/>
+### BEFORE I STARTED WRITING CODE, I WAS LEARNING HOW TO LEAD A TEAM.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSIV2006&layout=compact&hide_border=true&theme=transparent" height="170"/>
+</div>
+
+Football has been a major part of my life.
+
+I've played competitively from a young age, captained teams for years and played at club-level competition.
+
+It taught me things that coding eventually reinforced:
+
+```text
+LEADERSHIP        →  Make decisions when nobody knows the answer.
+
+TEAMWORK          →  The best player isn't always the most important player.
+
+PRESSURE          →  Perform anyway.
+
+FAILURE           →  Learn. Reset. Go again.
+
+CONSISTENCY       →  Show up.
+```
+
+And yes, I'm a **Messi guy.**
+
+---
+
+## 03 / CREATIVE
+
+### The part that doesn't fit on a resume.
+
+Before technology became such a big part of my life, there was **theatre**.
+
+School drama.  
+Performances.  
+Public speaking.  
+Creative projects.  
+Eventually, leadership within theatre.
+
+That experience stayed with me.
+
+It probably explains why I care about **storytelling, visual design, presentations and how an idea is experienced**, not just whether it technically works.
+
+I don't want something to simply function.
+
+**I want it to feel good.**
+
+---
+
+## 04 / COMMUNITY
+
+### AWS CLOUD CLUB — REVA UNIVERSITY
+
+I'm part of the **PR team at AWS Cloud Club, REVA University**.
+
+I've worked on the creative, promotional and organisational side of technical events, ideathons and workshops.
+
+Some of the events I've been involved around:
+
+`Bengaluru Tech Week`  
+`IdeateBLR`  
+`Build on Web3`  
+`AI / Cloud Workshops`
+
+There's something satisfying about watching an idea go from:
+
+```text
+"we should probably do this"
+
+              ↓
+
+"okay, let's actually do it"
+
+              ↓
+
+"wait... people are actually here"
+```
+
+---
+
+## THE STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,fastapi,mysql,git,github,docker,arduino,vscode" />
+
+<br><br>
+
+`Python` · `C` · `JavaScript` · `React` · `FastAPI`  
+`SQL` · `Git` · `Docker` · `Arduino` · `AI/ML` · `Computer Vision`
 
 </div>
 
 ---
 
-# 🌐 Find me
+## CURRENTLY
+
+<table>
+<tr>
+<td>
+
+**LEARNING**
+
+Artificial Intelligence  
+Machine Learning  
+Computer Vision  
+Cloud
+
+</td>
+<td>
+
+**BUILDING**
+
+Projects  
+Experiments  
+Hackathon ideas  
+Things that may or may not work
+
+</td>
+<td>
+
+**IMPROVING**
+
+Code  
+Design  
+Communication  
+Leadership
+
+</td>
+</tr>
+</table>
+
+---
+
+## A FEW RANDOM FACTS
+
+```text
+01  I have spent years playing football.
+
+02  I care probably too much about how presentations look.
+
+03  I like technology, but I don't want my entire personality to be technology.
+
+04  I enjoy learning languages.
+
+05  I genuinely enjoy turning ideas into things people can actually use.
+
+06  I'm still figuring out what I want to build next.
+```
+
+---
+
+## GITHUB
 
 <div align="center">
 
-<a href="https://github.com/GSIV2006">
-<img src="https://img.shields.io/badge/GitHub-GSIV2006-111827?style=for-the-badge&logo=github"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=GSIV2006&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=888888&icon_color=2563EB&rank_icon=github" height="175"/>
 
-<a href="https://www.linkedin.com/in/gsivenkat">
-<img src="https://img.shields.io/badge/LinkedIn-Venkat-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSIV2006&layout=compact&hide_border=true&bg_color=00000000&title_color=2563EB&text_color=888888" height="175"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GSIV2006&hide_border=true&background=00000000&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" />
 
 </div>
 
@@ -248,8 +289,18 @@ Repeating
 
 <div align="center">
 
-### **Still figuring things out. Still building anyway.**
+### G.S.I. VENKAT
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:111827&height=100&section=footer"/>
+`CODE` &nbsp; `CREATE` &nbsp; `COMPETE`
+
+<br>
+
+<a href="https://github.com/GSIV2006">GitHub</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gsivenkat">LinkedIn</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:111827,100:050505&height=120&section=footer" width="100%"/>
 
 </div>
